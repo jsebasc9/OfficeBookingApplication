@@ -1,0 +1,121 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input[type="checkbox"] {
+  -webkit-appearance: none; /* Remove the default appearance */
+  -moz-appearance: none;
+  appearance: none;
+  width: 20px; /* Set the size of the checkboxes */
+  height: 20px;
+  border: 1px solid #aaa; /* Add a border */
+  border-radius: 4px; /* Add some border-radius */
+  outline: none; /* Remove the outline when the checkbox is focused */
+  transition: all 0.2s ease-in-out; /* Add a smooth transition */
+  background-color: white; /* Set the background color */
+}
+
+input[type="checkbox"]:checked {
+  background-color: red; /* Change the background color when the checkbox is checked */
+  border-color: red; /* Change the border color when the checkbox is checked */
+}
+
+/* Section 1 */
+.checkbox-0 {
+  margin-top: 100px;
+  margin-left: 20px;
+  margin-right: 540px;
+}
+
+.checkbox-1 {
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 540px;
+}
+
+.checkbox-2 {
+  margin-top: 35px;
+  margin-left: 20px;
+  margin-right: 540px;
+}
+
+.checkbox-3 {
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 540px;
+}
+
+.checkbox-4 {
+  margin-top: 33px;
+  margin-left: 20px;
+  margin-right: 540px;
+}
+
+.checkbox-5 {
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 540px;
+}
+
+.checkbox-6 {
+  margin-top: 33px;
+  margin-left: 20px;
+  margin-right: 540px;
+}
+
+/* Section 2 */
+
+.checkbox-7 {
+  margin-top: 10;
+  margin-left: 20px;
+  margin-right: 60px;
+}
+
+.checkbox-8 {
+  margin-top: 100px;
+  margin-left: 20px;
+  margin-right: 60px;
+}
+
+.checkbox-9 {
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 540px;
+}
+
+.checkbox-10 {
+  margin-top: 35px;
+  margin-left: 20px;
+  margin-right: 540px;
+}
+
+.checkbox-11 {
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 540px;
+}
+
+.checkbox-12 {
+  margin-top: 33px;
+  margin-left: 20px;
+  margin-right: 540px;
+}
+
+.checkbox-13 {
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 540px;
+}
+
+.checkbox-14 {
+  margin-top: 33px;
+  margin-left: 20px;
+  margin-right: 540px;
+}
+
+.checkbox-15 {
+  margin-top: 110px;
+  margin-left: 20px;
+  margin-right: 540px;
+}
